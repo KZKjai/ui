@@ -105,6 +105,8 @@ export const poolRegistry: Record<string, any> = {
     "5G24MFGcThQCWrL9Wah22cTyY7bUyCjABBGKuxsgEoh4LV9e": "龍",
     "5GuWaWZ4RGdPdrbNrtCa637LyCf4SGjTJfzxGabib3NLMCdS": "豊",
     "5Cu6wCgo9CwgjiqKwpSebbszxPEu2vRVcFWDrirNGdmpNPYm": "宝",
-    "5F9uzA6TQf4V5p6v1sRc4Px8GxeKrgxgtUWuWMjxY5YJFr5G": "光"
+    "5F9uzA6TQf4V5p6v1sRc4Px8GxeKrgxgtUWuWMjxY5YJFr5G": "光",
+    "5G23iUgMscn2afQeLeG9Ta4Jub6vSqGzRniFY8PJ4nsV6wao": "Gyan",
+    "5ENsn4mnjsUkwujJwPaBUe37vTcW5sVkqSixEBCWgE6ZiYNp": "SHINWA"
   }
 };
